@@ -1,0 +1,15 @@
+80's Jukebox
+
+Attributes:
+
+numCDs = 20
+currentCD = "Foreigner - Jukebox Hero"
+isPlaying = false
+currentCredit = 0.25
+
+Methods:
+
+addCoin() : (currentCredit)
+switchCD("Rick Astley - Never Gonna Give you Up") : (currentCD  = "Rick Astley - Never Gonna Give you Up")
+playSong() : (isPlaying = true)
+addCD() : (numCDs = 21) [we added "A-ha - Take on Me"]
