@@ -1,0 +1,16 @@
+Kitchen Class
+
+
+Attributes:
+
+numChefs (integer)
+isClean (boolean)
+headChef (string)
+numStoves (integer)
+
+Methods:
+
+removeChef() : (subtracts 1 chef from numChefs)
+cleanKitchen() : (sets isClean to true)
+installNewStove() : (adds 1 to numStoves)
+promoteNewHeadChef(String name) : (sets headChef to [name])
