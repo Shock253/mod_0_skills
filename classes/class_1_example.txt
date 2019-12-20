@@ -1,0 +1,11 @@
+A&W All American Food
+
+numChefs = 3
+isClean = false
+headChef = "Randy"
+numStoves = 0
+
+removeChef() : (numChefs = 2)
+cleanKitchen() : (isClean = true)
+installNewStove() : (numStoves = 1)
+promoteNewHeadChef("Angie") : (headChef = "Angie")
