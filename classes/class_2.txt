@@ -1,0 +1,15 @@
+Jukebox
+
+Attributes:
+
+numCDs : (integer)
+currentCD : (String)
+isPlaying : (boolean)
+currentCredit : (float)
+
+Methods:
+
+addCoin() : (adds 0.25 to currentCredit)
+switchCD(String CDName) : (changes currentCD to CDName)
+playSong() : (changes isPlaying to true)
+addCD() : (adds 1 to numCDs)
